@@ -1,0 +1,311 @@
+Medicine 1,Medicine 2,Medicine 3,Dose 1,Dose 2,Dose 3,Age,Overdose Symptoms,Outcome (Overdose)
+Aspirin,None,None,500,0,0,25,Vomiting,1
+Paracetamol,None,None,1000,0,0,30,Nausea,0
+Ibuprofen,Amoxicillin,None,200,500,0,40,Dizziness,1
+Aspirin,Paracetamol,None,500,500,0,22,Nausea,0
+Ciprofloxacin,Loratadine,None,250,10,0,60,Breathing difficulty,1
+Metformin,None,None,500,0,0,50,None,0
+Atorvastatin,Simvastatin,None,20,20,0,65,Vomiting,1
+Aspirin,Metformin,Simvastatin,500,500,20,55,Dizziness,1
+Amoxicillin,Ciprofloxacin,Ibuprofen,500,250,200,35,Nausea,0
+Paracetamol,Levothyroxine,None,1000,50,0,45,Nausea,1
+Aspirin,Loratadine,Ciprofloxacin,248,82,504,45,Breathing difficulty,1
+Amoxicillin,Loratadine,Amoxicillin,748,359,21,43,Nausea,1
+Paracetamol,None,Ibuprofen,889,0,123,37,Seizures,1
+Ibuprofen,Ibuprofen,Ciprofloxacin,454,23,246,85,Dizziness,1
+Amoxicillin,Paracetamol,Amoxicillin,857,445,16,59,Dizziness,1
+Loratadine,Loratadine,Loratadine,608,297,500,36,Nausea,1
+Ibuprofen,None,Ibuprofen,718,0,470,68,Vomiting,1
+Paracetamol,Amoxicillin,None,198,712,0,53,Nausea,1
+Amoxicillin,None,Ibuprofen,994,0,488,21,Seizures,1
+Amoxicillin,Amoxicillin,Ciprofloxacin,683,159,303,14,Vomiting,1
+Paracetamol,Ciprofloxacin,Aspirin,528,151,377,57,Nausea,1
+Ibuprofen,Aspirin,Loratadine,404,100,133,65,None,0
+Aspirin,Amoxicillin,Amoxicillin,385,438,193,17,Vomiting,1
+Ciprofloxacin,Amoxicillin,Ciprofloxacin,260,162,529,75,Seizures,1
+Ciprofloxacin,Paracetamol,Loratadine,343,15,169,56,Vomiting,0
+Amoxicillin,Ciprofloxacin,Ibuprofen,712,181,274,35,Seizures,1
+Ciprofloxacin,Loratadine,Aspirin,887,260,516,9,None,1
+Amoxicillin,Loratadine,Aspirin,976,115,254,18,Vomiting,1
+Loratadine,Ibuprofen,Ciprofloxacin,365,436,23,74,Seizures,1
+Ibuprofen,Ibuprofen,Paracetamol,492,768,72,13,Nausea,1
+Amoxicillin,Amoxicillin,Ciprofloxacin,511,539,360,50,Seizures,1
+Ciprofloxacin,Aspirin,Ciprofloxacin,308,296,560,36,Nausea,1
+Ciprofloxacin,Paracetamol,Aspirin,484,762,24,65,Vomiting,1
+Paracetamol,Ibuprofen,Ibuprofen,431,394,298,52,Breathing difficulty,1
+Aspirin,Amoxicillin,Amoxicillin,501,352,194,9,Dizziness,1
+Ibuprofen,Loratadine,Amoxicillin,676,488,287,75,Dizziness,1
+Aspirin,Aspirin,Ciprofloxacin,491,742,552,31,None,1
+Amoxicillin,Amoxicillin,Ciprofloxacin,676,29,234,77,Nausea,1
+Aspirin,Amoxicillin,Ibuprofen,292,445,399,44,Dizziness,1
+Aspirin,None,Loratadine,570,0,34,64,None,0
+Aspirin,Loratadine,Amoxicillin,480,294,85,35,Nausea,1
+Aspirin,Ibuprofen,Ciprofloxacin,801,93,361,69,Dizziness,1
+Ciprofloxacin,Ciprofloxacin,Ciprofloxacin,759,261,333,59,Vomiting,1
+Aspirin,None,None,974,0,0,54,Seizures,1
+Paracetamol,Aspirin,Amoxicillin,497,180,566,27,Breathing difficulty,1
+Ibuprofen,Paracetamol,Ciprofloxacin,114,222,467,42,None,0
+Ciprofloxacin,Paracetamol,Paracetamol,315,758,226,23,Vomiting,1
+Aspirin,Aspirin,Ciprofloxacin,104,129,448,5,Seizures,1
+Loratadine,None,Ciprofloxacin,734,0,69,25,Dizziness,1
+Loratadine,None,Paracetamol,390,0,264,75,Seizures,1
+Loratadine,Loratadine,Aspirin,810,607,106,54,Seizures,1
+Loratadine,Loratadine,None,682,564,0,47,None,1
+Amoxicillin,Loratadine,Paracetamol,764,209,212,38,Dizziness,1
+Amoxicillin,Loratadine,None,498,472,0,31,Vomiting,1
+Loratadine,None,Loratadine,754,0,181,66,None,0
+Ibuprofen,Aspirin,Ibuprofen,673,45,424,15,Seizures,1
+Aspirin,Aspirin,Paracetamol,259,240,6,20,Seizures,0
+Amoxicillin,Amoxicillin,Paracetamol,653,592,562,6,Dizziness,1
+Amoxicillin,Aspirin,Amoxicillin,270,779,57,52,Dizziness,1
+Amoxicillin,None,Aspirin,385,0,24,49,Dizziness,0
+Ciprofloxacin,Loratadine,Ciprofloxacin,374,733,67,33,Nausea,1
+Aspirin,Loratadine,Aspirin,407,436,249,61,Breathing difficulty,1
+Paracetamol,Paracetamol,Ciprofloxacin,360,772,343,30,None,1
+Paracetamol,Ciprofloxacin,Ciprofloxacin,756,177,122,54,Vomiting,1
+Amoxicillin,Ibuprofen,Amoxicillin,694,251,524,84,Seizures,1
+Ibuprofen,Loratadine,Aspirin,436,623,201,73,Dizziness,1
+Aspirin,Loratadine,Loratadine,682,424,103,19,Breathing difficulty,1
+Ciprofloxacin,Aspirin,Aspirin,646,614,54,37,Seizures,1
+Loratadine,Ciprofloxacin,None,570,197,0,48,Seizures,1
+Ciprofloxacin,Ibuprofen,Ibuprofen,260,194,361,22,Breathing difficulty,1
+Ibuprofen,Loratadine,Aspirin,562,235,227,77,Vomiting,1
+Ibuprofen,Ciprofloxacin,None,139,310,0,57,Dizziness,0
+Loratadine,Loratadine,Paracetamol,169,346,315,57,None,0
+Ciprofloxacin,Amoxicillin,Ibuprofen,790,99,511,34,Vomiting,1
+Ibuprofen,Aspirin,Ciprofloxacin,871,104,72,5,Vomiting,1
+Ciprofloxacin,Ibuprofen,Ibuprofen,719,23,160,18,None,0
+Amoxicillin,Aspirin,Ibuprofen,457,425,501,39,Nausea,1
+Aspirin,Aspirin,Ciprofloxacin,719,502,561,13,Nausea,1
+Paracetamol,Aspirin,Ciprofloxacin,885,651,338,39,Seizures,1
+Aspirin,Aspirin,Paracetamol,771,477,35,47,Nausea,1
+Paracetamol,Ciprofloxacin,Ciprofloxacin,759,568,413,40,Breathing difficulty,1
+Aspirin,Ibuprofen,Loratadine,716,682,438,30,Seizures,1
+Ibuprofen,Amoxicillin,Ibuprofen,578,277,283,41,Dizziness,1
+Ciprofloxacin,Aspirin,Ciprofloxacin,903,603,306,78,Seizures,1
+Ciprofloxacin,Loratadine,Ciprofloxacin,824,312,212,9,Nausea,1
+Paracetamol,Aspirin,Ciprofloxacin,456,163,482,65,Breathing difficulty,1
+Aspirin,None,Paracetamol,325,0,343,40,None,0
+Ciprofloxacin,Paracetamol,None,136,24,0,14,Breathing difficulty,0
+Ciprofloxacin,None,Paracetamol,967,0,299,11,Nausea,1
+Ibuprofen,Ibuprofen,Aspirin,717,582,501,53,Dizziness,1
+Aspirin,Paracetamol,Loratadine,441,355,262,37,Breathing difficulty,1
+Aspirin,Ibuprofen,Ibuprofen,869,746,522,16,None,1
+Aspirin,None,Paracetamol,126,0,207,62,Dizziness,0
+Ciprofloxacin,Aspirin,Ciprofloxacin,226,174,519,38,Dizziness,1
+Ciprofloxacin,Loratadine,Aspirin,474,290,170,56,Nausea,1
+Ibuprofen,Ciprofloxacin,Ibuprofen,346,338,436,65,Nausea,1
+Aspirin,Amoxicillin,Paracetamol,996,137,54,53,None,0
+Ciprofloxacin,None,Ciprofloxacin,796,0,462,79,None,1
+Aspirin,Ibuprofen,Ciprofloxacin,124,4,531,82,None,0
+Ciprofloxacin,Ciprofloxacin,Amoxicillin,558,630,494,36,None,1
+Paracetamol,None,Paracetamol,698,0,543,5,Seizures,1
+Ciprofloxacin,Loratadine,Ciprofloxacin,436,368,285,41,Dizziness,1
+Paracetamol,Paracetamol,Amoxicillin,378,99,384,76,Vomiting,1
+Ciprofloxacin,None,None,800,0,0,69,Dizziness,1
+Paracetamol,Aspirin,None,642,368,0,11,Vomiting,1
+Ibuprofen,Amoxicillin,Aspirin,147,729,146,15,None,0
+Ibuprofen,Ciprofloxacin,None,247,3,0,75,Seizures,0
+Ciprofloxacin,Paracetamol,Amoxicillin,835,682,360,69,Seizures,1
+Ciprofloxacin,None,Loratadine,594,0,367,72,Vomiting,1
+Ciprofloxacin,Loratadine,Paracetamol,867,798,539,5,Seizures,1
+Aspirin,Ciprofloxacin,Ibuprofen,333,796,265,35,Nausea,1
+Ciprofloxacin,Ibuprofen,Ciprofloxacin,202,352,433,35,Vomiting,1
+Ciprofloxacin,Aspirin,Loratadine,171,649,472,9,None,1
+Ciprofloxacin,Amoxicillin,Paracetamol,888,188,50,78,Vomiting,1
+Aspirin,Amoxicillin,Paracetamol,477,110,48,31,Dizziness,1
+Ibuprofen,None,Paracetamol,125,0,51,71,Dizziness,0
+Paracetamol,Loratadine,Loratadine,243,596,283,30,Breathing difficulty,1
+Paracetamol,Aspirin,Amoxicillin,455,62,318,67,Dizziness,1
+Amoxicillin,Paracetamol,Ciprofloxacin,481,218,452,31,None,0
+Paracetamol,Aspirin,None,837,193,0,12,Nausea,1
+Ibuprofen,Aspirin,Amoxicillin,352,501,353,66,Dizziness,1
+Amoxicillin,Ciprofloxacin,Ciprofloxacin,436,758,75,59,Breathing difficulty,1
+Aspirin,Ibuprofen,Ibuprofen,818,764,542,60,Dizziness,1
+Amoxicillin,Ibuprofen,Ciprofloxacin,276,641,373,32,None,1
+Amoxicillin,Amoxicillin,Loratadine,295,170,152,24,None,0
+Paracetamol,Ciprofloxacin,Paracetamol,597,788,258,59,Vomiting,1
+Amoxicillin,None,Loratadine,417,0,102,52,Breathing difficulty,0
+Loratadine,Ibuprofen,Ibuprofen,931,431,45,6,Vomiting,1
+Loratadine,Paracetamol,Amoxicillin,104,715,264,7,Dizziness,1
+Ibuprofen,Paracetamol,Paracetamol,751,518,303,19,Dizziness,1
+Aspirin,Aspirin,None,285,16,0,76,Dizziness,0
+Loratadine,Paracetamol,Paracetamol,543,181,152,7,Breathing difficulty,1
+Loratadine,Aspirin,None,886,383,0,60,Seizures,1
+Loratadine,None,Ciprofloxacin,686,0,90,25,Dizziness,1
+Ibuprofen,Loratadine,Amoxicillin,158,646,500,9,Nausea,1
+Loratadine,Amoxicillin,Aspirin,337,800,233,72,None,1
+Ibuprofen,Aspirin,Amoxicillin,598,688,161,5,None,1
+Aspirin,Aspirin,None,342,394,0,7,None,0
+Loratadine,Aspirin,Ciprofloxacin,418,216,486,19,Vomiting,1
+Ibuprofen,Ciprofloxacin,Ibuprofen,117,567,28,17,Vomiting,1
+Loratadine,Amoxicillin,Amoxicillin,459,33,117,65,Dizziness,1
+Amoxicillin,Loratadine,None,141,760,0,78,Breathing difficulty,1
+Loratadine,Aspirin,Aspirin,105,32,87,25,None,0
+Amoxicillin,Loratadine,Ibuprofen,339,277,135,42,Dizziness,1
+Paracetamol,Paracetamol,Paracetamol,339,661,168,84,None,0
+Ibuprofen,Ibuprofen,Paracetamol,462,40,555,20,Breathing difficulty,1
+Ciprofloxacin,None,Aspirin,591,0,522,36,Vomiting,1
+Amoxicillin,Aspirin,Loratadine,215,700,397,63,Vomiting,1
+Paracetamol,Amoxicillin,Ciprofloxacin,359,190,600,53,Breathing difficulty,1
+Loratadine,None,None,690,0,0,18,Breathing difficulty,1
+Loratadine,Ciprofloxacin,Ibuprofen,329,780,355,8,Breathing difficulty,1
+Ibuprofen,Loratadine,Loratadine,603,655,513,50,Breathing difficulty,1
+Ciprofloxacin,Ciprofloxacin,Aspirin,747,414,145,37,Vomiting,1
+Amoxicillin,Aspirin,Ibuprofen,156,663,358,46,Nausea,1
+Ibuprofen,Loratadine,Amoxicillin,448,737,265,44,Breathing difficulty,1
+Amoxicillin,Ibuprofen,Ciprofloxacin,867,800,126,38,Seizures,1
+Ibuprofen,Paracetamol,None,515,132,0,83,Dizziness,1
+Aspirin,Ciprofloxacin,Ibuprofen,956,37,348,65,Nausea,1
+Aspirin,Ibuprofen,Ciprofloxacin,408,242,423,61,None,0
+Loratadine,Aspirin,None,611,417,0,28,Nausea,1
+Paracetamol,None,Ciprofloxacin,578,0,273,82,Nausea,1
+Ciprofloxacin,Amoxicillin,Paracetamol,948,673,3,74,Vomiting,1
+Loratadine,Paracetamol,None,938,609,0,50,None,1
+Loratadine,Aspirin,Ibuprofen,735,529,155,60,Seizures,1
+Loratadine,Ibuprofen,Ibuprofen,226,489,567,81,Vomiting,1
+Ibuprofen,Loratadine,Ibuprofen,803,165,524,29,Seizures,1
+Amoxicillin,Paracetamol,None,277,253,0,85,Vomiting,0
+Ibuprofen,Paracetamol,Ibuprofen,249,515,235,38,Vomiting,1
+Amoxicillin,Amoxicillin,None,994,709,0,44,Nausea,1
+Aspirin,Ciprofloxacin,Paracetamol,315,466,51,6,Seizures,1
+Ciprofloxacin,Aspirin,Amoxicillin,530,165,423,43,Dizziness,1
+Paracetamol,Paracetamol,Paracetamol,473,760,584,35,None,1
+Amoxicillin,Loratadine,Ciprofloxacin,778,573,384,42,None,1
+Aspirin,Aspirin,None,361,73,0,53,Nausea,0
+Aspirin,Amoxicillin,Paracetamol,367,618,175,43,Vomiting,1
+Ibuprofen,Amoxicillin,Amoxicillin,320,120,482,49,Seizures,1
+Paracetamol,Ciprofloxacin,Paracetamol,419,755,563,81,Seizures,1
+Amoxicillin,None,Aspirin,748,0,148,54,None,0
+Paracetamol,Ibuprofen,Loratadine,942,43,578,62,Dizziness,1
+Aspirin,Ciprofloxacin,Ibuprofen,469,594,306,32,Seizures,1
+Paracetamol,Loratadine,Ibuprofen,532,76,450,69,Dizziness,1
+Paracetamol,None,Loratadine,541,0,418,28,None,0
+Ibuprofen,None,Paracetamol,267,0,552,59,Vomiting,1
+Amoxicillin,Paracetamol,Paracetamol,724,289,336,23,Dizziness,1
+Amoxicillin,Paracetamol,None,675,543,0,29,Nausea,1
+Amoxicillin,Ibuprofen,None,377,274,0,18,Vomiting,1
+Ciprofloxacin,Aspirin,Amoxicillin,854,406,268,50,Seizures,1
+Ibuprofen,Aspirin,Ciprofloxacin,262,747,455,58,Seizures,1
+Loratadine,Aspirin,None,906,56,0,36,Dizziness,1
+Paracetamol,Loratadine,Amoxicillin,373,608,30,54,Nausea,1
+Paracetamol,None,Aspirin,904,0,301,51,Dizziness,1
+Loratadine,Loratadine,None,103,30,0,52,Vomiting,0
+Ciprofloxacin,Loratadine,Ciprofloxacin,459,615,113,57,Nausea,1
+Loratadine,Aspirin,Ibuprofen,346,53,463,67,Nausea,1
+Amoxicillin,Amoxicillin,Paracetamol,277,632,231,6,Seizures,1
+Ibuprofen,Ciprofloxacin,Amoxicillin,488,659,596,12,Dizziness,1
+Aspirin,None,Ibuprofen,368,0,331,46,Breathing difficulty,1
+Paracetamol,None,Loratadine,461,0,558,72,Dizziness,1
+Ibuprofen,Amoxicillin,Ibuprofen,605,156,45,66,Breathing difficulty,1
+Ciprofloxacin,Loratadine,Paracetamol,325,251,397,74,Dizziness,1
+Ibuprofen,Amoxicillin,Amoxicillin,493,42,334,53,Vomiting,1
+Loratadine,Ibuprofen,Aspirin,936,149,429,79,Vomiting,1
+Ibuprofen,Paracetamol,Ciprofloxacin,176,575,88,33,Vomiting,1
+Aspirin,None,Aspirin,157,0,527,17,None,0
+Amoxicillin,Aspirin,Aspirin,301,280,139,21,Nausea,1
+Ibuprofen,Loratadine,Amoxicillin,608,685,532,25,Seizures,1
+Paracetamol,Aspirin,Amoxicillin,371,375,545,48,None,1
+Paracetamol,None,Paracetamol,619,0,511,54,Breathing difficulty,1
+Aspirin,Amoxicillin,Ciprofloxacin,302,495,63,41,Vomiting,1
+Ibuprofen,Aspirin,Paracetamol,119,197,236,34,Dizziness,0
+Aspirin,Ciprofloxacin,Ibuprofen,139,180,168,80,Seizures,0
+Loratadine,Ciprofloxacin,None,443,267,0,48,Breathing difficulty,1
+Loratadine,Loratadine,Ibuprofen,320,410,584,7,Breathing difficulty,1
+Amoxicillin,Paracetamol,Paracetamol,886,307,469,12,None,1
+Ibuprofen,Amoxicillin,Amoxicillin,400,61,328,45,Dizziness,1
+Loratadine,Loratadine,None,232,79,0,66,Nausea,0
+Paracetamol,Ibuprofen,Amoxicillin,186,91,187,16,Breathing difficulty,0
+Amoxicillin,Ciprofloxacin,None,140,564,0,31,Seizures,1
+Ibuprofen,Amoxicillin,Loratadine,341,319,77,7,Seizures,1
+Loratadine,Paracetamol,Amoxicillin,880,91,375,32,Seizures,1
+Ciprofloxacin,Paracetamol,None,110,644,0,29,None,0
+Amoxicillin,Ciprofloxacin,Paracetamol,369,600,7,8,Breathing difficulty,1
+Paracetamol,Aspirin,Paracetamol,367,229,108,64,Seizures,1
+Aspirin,None,Amoxicillin,875,0,14,70,Dizziness,1
+Aspirin,None,None,134,0,0,49,Seizures,0
+Paracetamol,Amoxicillin,Paracetamol,895,554,478,26,Vomiting,1
+Ibuprofen,Aspirin,Amoxicillin,470,260,579,52,Breathing difficulty,1
+Loratadine,Aspirin,Amoxicillin,514,118,215,42,Breathing difficulty,1
+Loratadine,None,Paracetamol,803,0,569,30,None,1
+Ciprofloxacin,None,Ibuprofen,355,0,37,32,Dizziness,0
+Aspirin,Loratadine,Ciprofloxacin,671,45,217,58,Seizures,1
+Amoxicillin,Paracetamol,Ibuprofen,487,234,374,25,Breathing difficulty,1
+Amoxicillin,Paracetamol,Ciprofloxacin,534,65,405,42,Seizures,1
+Ciprofloxacin,Loratadine,Loratadine,397,474,572,79,Vomiting,1
+Amoxicillin,Paracetamol,Loratadine,360,105,206,48,Vomiting,1
+Ciprofloxacin,None,Loratadine,869,0,310,63,Nausea,1
+Amoxicillin,None,Amoxicillin,364,0,87,75,None,0
+Loratadine,Ibuprofen,Ibuprofen,395,411,417,29,Vomiting,1
+Amoxicillin,Amoxicillin,Ibuprofen,373,695,277,56,Breathing difficulty,1
+Loratadine,Paracetamol,Paracetamol,896,45,6,21,Vomiting,1
+Paracetamol,Paracetamol,Paracetamol,375,380,561,34,Nausea,1
+Amoxicillin,Paracetamol,Amoxicillin,640,251,586,14,Seizures,1
+Paracetamol,Loratadine,Paracetamol,909,603,47,8,Breathing difficulty,1
+Amoxicillin,Loratadine,Ibuprofen,123,107,539,51,None,0
+Loratadine,Aspirin,Amoxicillin,126,379,277,65,Vomiting,1
+Paracetamol,None,Loratadine,507,0,41,48,Seizures,0
+Paracetamol,None,Amoxicillin,958,0,478,14,None,1
+Ciprofloxacin,Loratadine,Paracetamol,120,335,478,33,Breathing difficulty,1
+Amoxicillin,Amoxicillin,Amoxicillin,384,297,348,37,Dizziness,1
+Loratadine,Paracetamol,Amoxicillin,521,276,234,60,Breathing difficulty,1
+Aspirin,Ciprofloxacin,None,611,687,0,39,Breathing difficulty,1
+Paracetamol,Ciprofloxacin,Ibuprofen,529,479,186,37,Vomiting,1
+Amoxicillin,Paracetamol,None,391,311,0,71,Nausea,1
+Ibuprofen,Ibuprofen,Amoxicillin,303,698,411,77,Breathing difficulty,1
+Ciprofloxacin,Ciprofloxacin,Ciprofloxacin,565,349,200,24,Vomiting,1
+Ciprofloxacin,Loratadine,Ciprofloxacin,698,769,454,65,Seizures,1
+Paracetamol,Amoxicillin,Loratadine,232,432,330,12,Breathing difficulty,1
+Paracetamol,Paracetamol,Paracetamol,346,214,574,47,None,0
+Ibuprofen,Paracetamol,Loratadine,204,356,562,56,Breathing difficulty,1
+Aspirin,Loratadine,Aspirin,872,346,590,69,Nausea,1
+Ciprofloxacin,Aspirin,Paracetamol,463,752,29,26,Dizziness,1
+Aspirin,Aspirin,Ibuprofen,316,475,391,63,Dizziness,1
+Amoxicillin,Paracetamol,Aspirin,559,751,504,9,Seizures,1
+Loratadine,Paracetamol,None,786,454,0,10,Breathing difficulty,1
+Amoxicillin,Paracetamol,Aspirin,346,7,383,34,Dizziness,1
+Ciprofloxacin,Paracetamol,Loratadine,426,335,422,54,Seizures,1
+Paracetamol,Amoxicillin,Loratadine,790,623,35,17,None,1
+Aspirin,Ciprofloxacin,Paracetamol,887,248,189,81,Breathing difficulty,1
+Aspirin,Loratadine,Aspirin,164,447,42,73,Dizziness,1
+Ciprofloxacin,Paracetamol,Ciprofloxacin,185,445,492,52,Dizziness,1
+Paracetamol,Loratadine,Ciprofloxacin,284,514,594,83,Dizziness,1
+Paracetamol,Paracetamol,Paracetamol,991,572,260,66,Nausea,1
+Paracetamol,Paracetamol,Ibuprofen,691,95,563,24,Dizziness,1
+Loratadine,Loratadine,Ibuprofen,559,408,447,36,Nausea,1
+Ciprofloxacin,Paracetamol,Ibuprofen,347,97,432,8,Dizziness,1
+Amoxicillin,Amoxicillin,Aspirin,447,51,308,31,None,0
+Paracetamol,Amoxicillin,Loratadine,640,85,358,30,Vomiting,1
+Ciprofloxacin,Loratadine,Paracetamol,866,133,66,8,None,0
+Ciprofloxacin,Loratadine,Loratadine,840,486,425,12,Seizures,1
+Ciprofloxacin,Aspirin,Aspirin,425,688,426,77,None,1
+Paracetamol,Amoxicillin,Aspirin,474,481,418,37,Seizures,1
+Paracetamol,Aspirin,Loratadine,640,302,293,69,Seizures,1
+Aspirin,Paracetamol,Paracetamol,988,580,596,46,Dizziness,1
+Paracetamol,Aspirin,Loratadine,487,473,66,25,Vomiting,1
+Aspirin,Aspirin,Ciprofloxacin,481,417,260,56,Seizures,1
+Paracetamol,Ciprofloxacin,Ciprofloxacin,443,760,264,23,Seizures,1
+Amoxicillin,Ibuprofen,Ciprofloxacin,379,517,513,29,Nausea,1
+Loratadine,Loratadine,Ciprofloxacin,152,540,525,15,Nausea,1
+Paracetamol,None,Amoxicillin,354,0,38,26,Nausea,0
+Aspirin,Amoxicillin,Amoxicillin,438,464,432,85,Vomiting,1
+Loratadine,Amoxicillin,Ciprofloxacin,561,198,373,69,Breathing difficulty,1
+Paracetamol,Paracetamol,Ibuprofen,289,556,438,77,Dizziness,1
+Ciprofloxacin,Aspirin,None,602,579,0,20,Breathing difficulty,1
+Ciprofloxacin,Paracetamol,Amoxicillin,361,332,18,26,Breathing difficulty,1
+Paracetamol,Paracetamol,Paracetamol,761,109,9,59,Dizziness,1
+Ciprofloxacin,Aspirin,None,335,7,0,44,Dizziness,0
+Ciprofloxacin,Ciprofloxacin,Ciprofloxacin,157,732,401,25,None,1
+Ibuprofen,Loratadine,Ciprofloxacin,852,540,19,75,Breathing difficulty,1
+Aspirin,Aspirin,Paracetamol,531,300,599,59,Dizziness,1
+Loratadine,Amoxicillin,Ciprofloxacin,782,368,67,62,Dizziness,1
+Paracetamol,Loratadine,Aspirin,992,697,96,39,Breathing difficulty,1
+Ibuprofen,None,None,936,0,0,58,Nausea,1
+Loratadine,Loratadine,Loratadine,668,24,206,48,Vomiting,1
+Loratadine,Ibuprofen,Amoxicillin,367,596,54,8,None,0
+Loratadine,Paracetamol,Ciprofloxacin,524,295,504,43,Dizziness,1
+Ibuprofen,Loratadine,Ciprofloxacin,425,354,440,80,Vomiting,1
+Aspirin,Ibuprofen,Ibuprofen,459,800,191,77,Breathing difficulty,1
+Ciprofloxacin,None,Paracetamol,783,0,89,71,Seizures,1
+Ciprofloxacin,Loratadine,Aspirin,446,638,535,30,Nausea,1
+Loratadine,Ciprofloxacin,Amoxicillin,495,721,428,64,Nausea,1
